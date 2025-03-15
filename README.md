@@ -65,4 +65,3 @@ Los estándares de calidad aseguran que las pruebas sean sistemáticas y efectiv
 
 🎯 Conclusión
 El diseño de pruebas de software es un proceso fundamental que permite detectar errores, mejorar la calidad y asegurar el correcto funcionamiento del sistema. La implementación de estrategias adecuadas, el uso de herramientas de depuración y la aplicación de normas de calidad garantizan un software robusto y confiable.
-🚀 Repositorio en GitHub: Tu Repositorio
